@@ -9,6 +9,11 @@ Modified haze simulation using _Atmospheric Scattering Model_ (ASM)
 </p>
 
 
+<div align="center" width="100%">
+    <img width="99%" src="https://github.com/pinantyo/Haze-Simulation-Synthetic/blob/main/data/Process.png">
+    <p>Process flow on haze generator</p>
+</div>
+
 ## Input
 - Cirrus band obtained from Landsat  ![Google Earth Engine Code](https://code.earthengine.google.com)
 
@@ -18,8 +23,6 @@ Modified haze simulation using _Atmospheric Scattering Model_ (ASM)
     <img width="20%" src="https://github.com/pinantyo/Haze-Simulation-Synthetic/blob/main/data/cirrus/cirrus3.png"> 
     <img width="20%" src="https://github.com/pinantyo/Haze-Simulation-Synthetic/blob/main/data/cirrus/cirrus4.png"> 
 </p>
-
-
 
 - Data Land-Use Segmentation ![GID-5](https://x-ytong.github.io/project/GID.html) | ![WHDLD](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0) | ![Landcover.ai](https://landcover.ai.linuxpolska.com/) | ![Deep Globe Landcover Segmentation](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset)
 
