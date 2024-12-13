@@ -1,1 +1,1 @@
-# Computer-Vision-Tasks
+# Haze Synthetic Generator
