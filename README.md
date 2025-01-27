@@ -15,7 +15,7 @@ Modified haze simulation using _Atmospheric Scattering Model_ (ASM)
 </div>
 
 ## Input
-- Cirrus band obtained from Landsat  ![Google Earth Engine Code](https://code.earthengine.google.com)
+- Cirrus band obtained from Landsat <a href="https://code.earthengine.google.com">Google Earth Engine Code</a>
 
 <p align="center" width="100%">
     <img width="20%" src="https://github.com/pinantyo/Haze-Simulation-Synthetic/blob/main/data/cirrus/cirrus1.png">
@@ -24,7 +24,7 @@ Modified haze simulation using _Atmospheric Scattering Model_ (ASM)
     <img width="20%" src="https://github.com/pinantyo/Haze-Simulation-Synthetic/blob/main/data/cirrus/cirrus4.png"> 
 </p>
 
-- Data Land-Use Segmentation ![GID-5](https://x-ytong.github.io/project/GID.html) | ![WHDLD](https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0) | ![Landcover.ai](https://landcover.ai.linuxpolska.com/) | ![Deep Globe Landcover Segmentation](https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset)
+- Data Land-Use Segmentation <a href="https://x-ytong.github.io/project/GID.html">GID-5</a> | <a href="https://sites.google.com/view/zhouwx/dataset#h.p_hQS2jYeaFpV0">WHDLD</a> | <a href="https://landcover.ai.linuxpolska.com/">Landcover.ai</a> | <a href="https://www.kaggle.com/datasets/balraj98/deepglobe-land-cover-classification-dataset">Deep Globe Landcover Segmentation</a>
 
 ## Output
 <p align="center" width="100%">
