@@ -31,3 +31,6 @@ Modified haze simulation using _Atmospheric Scattering Model_ (ASM)
     <img width="40%" src="https://github.com/pinantyo/Haze-Simulation-Synthetic/blob/main/data/hazy/Pairs1.png">
     <img width="40%" src="https://github.com/pinantyo/Haze-Simulation-Synthetic/blob/main/data/hazy/Pairs2.png">
 </p>
+
+## Reference
+<p>Song, Yuda and He, Zhuqing and Qian, Hui and Du, Xin. 2023. Vision Transformers for Single Image Dehazing. IEEE Transactions on Image Processing. https://github.com/zhuqinghe/RS-Haze</p>
